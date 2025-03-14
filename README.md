@@ -1,1 +1,1 @@
-# Alzheimer-RF-GNN
+# Alzheimer diagnosis with blood transcriptome
