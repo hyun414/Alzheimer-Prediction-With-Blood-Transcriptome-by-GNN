@@ -1,0 +1,5 @@
+if (!requireNamespace("BiocManager", quietly = TRUE))
+    install.packages("BiocManager")
+BiocManager::install("hgu219.db")
+BiocManager::install("AnnotationDbi")
+install.packages('readr')
