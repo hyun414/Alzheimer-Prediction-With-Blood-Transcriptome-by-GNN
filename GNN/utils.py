@@ -1,3 +1,8 @@
+"""
+This is the implementation of useful functions used in main code.
+The code is inspired by "https://github.com/TencentAILabHealthcare/MLA-GNN/blob/main/utils.py"
+"""
+
 import numpy as np
 import math
 import torch
