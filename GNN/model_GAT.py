@@ -1,3 +1,8 @@
+"""
+This is the implementation of Graph Attention Network.
+The code is inspired by "https://github.com/Diego999/pyGAT" and "https://github.com/TencentAILabHealthcare/MLA-GNN/blob/main/model_GAT.py"
+"""
+
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
