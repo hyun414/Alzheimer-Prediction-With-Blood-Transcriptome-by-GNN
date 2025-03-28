@@ -1,3 +1,8 @@
+"""
+This is the implementation of options used in main code.
+The code is inspired by "https://github.com/TencentAILabHealthcare/MLA-GNN/blob/main/options.py"
+"""
+
 import argparse
 import os
 
